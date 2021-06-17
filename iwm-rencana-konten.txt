@@ -6,4 +6,7 @@ Rencana konten IWM
 * Struts
 * JSF
 - PHP
-* Codeigniter
+* Laravel
+- Python
+- Golang
+- Interview
