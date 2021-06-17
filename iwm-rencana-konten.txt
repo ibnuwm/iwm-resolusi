@@ -3,5 +3,6 @@ Rencana konten IWM
 - JAVA 
 * Spring MVC
 * Springboot
+* Struts
 - PHP
 - Interview
